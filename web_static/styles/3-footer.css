@@ -1,0 +1,14 @@
+/*
+* for footer style
+*/
+footer {
+	align-items: center;
+	background-color: #FFFFFF;
+	border-top: 1px solid #CCCCCC;
+	height: 60px;
+	width: 100%;
+	bottom: 0;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+}
